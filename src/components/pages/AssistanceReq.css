@@ -1,0 +1,25 @@
+.container{
+    /* display: flex; */
+  justify-content: center;
+  align-items: center; 
+  
+
+}
+
+.buttons{
+    margin-top: 20px;
+    margin-left: 30.5%;
+    
+}
+.buttons .b{
+   width: 200px;
+    color:white;
+}
+.title{
+    margin-top: 20px;
+    margin-left: 40%;
+    justify-content: center;
+    flex-direction: row;
+    color: white;
+    align-items: center;
+ }

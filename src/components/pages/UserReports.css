@@ -1,0 +1,18 @@
+.cnuID{
+    font-size: 16pt;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.request{
+    font-size: 20pt;
+    font-weight: BOLd;
+    margin-left: 40%;
+}
+
+.cnuIDinput{
+    margin-left: 3%;
+    height: 30px;
+}
